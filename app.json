@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝗟𝗨𝗖𝗞𝗬 𝗠𝗗",
+      "value":"Truth シ Bot",
       "required":false
 
     } ,
@@ -72,11 +72,11 @@
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
+    "desc": "Truth シ",
     "required": false,
     "value": "ғʀᴇᴅɪᴇ ᴛᴇᴄʜ"
   },
-    "OWNER_NUMBER":
+    "OWNER_NUMBER":2348115278083
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
